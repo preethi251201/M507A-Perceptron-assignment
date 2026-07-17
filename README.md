@@ -1,5 +1,4 @@
 # M507A-Perceptron-assignment
-# M507A Perceptron Assignment
 
 This repository contains my implementation of a Perceptron-based machine learning pipeline for the MNIST digit classification dataset.
 
